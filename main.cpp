@@ -97,11 +97,10 @@ int main(){
 
     // METHOD for loops
     // for (i = 0; i <= 2; i++) {
-    //     if (nums[i] > nums[i + 1]) {
-    //         result = nums[i];
-    //     }else if (nums[i] < nums[i + 1]) {
-    //         result = nums[i+1];
-    //     }
+    //     if (nums[i+1] > max) {
+    // max = nums[i+1];
+// }
+// i++;
     // }
     //
     // cout << "Largest Number: " << largestNum << endl;
